@@ -26,7 +26,6 @@ Ikuti langkah-langkah di bawah untuk menjalankan project ini di lokal:
 
 ```bash
 git clone https://github.com/danielaugust67/Simpe-To-Do-List-React.git
-cd todo-react
 ```
 
 ### 2. Install Depedeny
